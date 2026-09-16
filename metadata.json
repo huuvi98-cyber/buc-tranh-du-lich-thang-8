@@ -1,0 +1,6 @@
+{
+  "name": "Đồ Họa Động Du Lịch Việt Nam",
+  "description": "Đồ họa thông tin động với hiệu ứng nhảy số trực quan cho bức tranh du lịch Việt Nam",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
